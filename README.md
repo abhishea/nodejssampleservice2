@@ -1,2 +1,2 @@
 # nodejssampleservice2
-sample
+sample2
